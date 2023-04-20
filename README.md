@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 
-- 🔭 Most used languages: Go, Python, Rust, C++
+- 🔭 Most used languages: Go, Rust, Python
 - 🤩 Dream: Open a bookstore near the school after retirement
-<p><img src="https://github-readme-stats.vercel.app/api?username=Desiki-high&show_icons=true" alt="Desiki-high"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Desiki-high&show_icons=true&theme=vue" alt="Desiki-high"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desiki-high" alt="Desiki-high"/></p>
